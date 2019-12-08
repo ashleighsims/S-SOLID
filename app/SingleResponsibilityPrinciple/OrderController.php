@@ -2,7 +2,7 @@
 
 namespace App\SingleResponsibilityPrinciple;
 
-class Order {
+class OrderController {
     // Create method not violating
     public function create($request)
     {
